@@ -1,5 +1,5 @@
 regExps = {
-"exercise_1": /(Internet|Words|Or)/,
+"exercise_1": /[A-Z][a-z]+/,
 "exercise_2": /088[1|7]...[5|7|3]../,
 "exercise_3": /\D+|[^1^0]/,
 "exercise_4": /(^v.*e$|^i.*)/,
